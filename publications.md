@@ -26,7 +26,7 @@ Thesis advisors: Dr. Benny Pinkas, Dr. Zvi Guterman
 # Vdoo blogs
 
 - [Vdoo adds OWASP ASVS to its list of supported standards](https://www.vdoo.com/blog/vdoo-adds-owasp-asvs-to-supported-standards)
-- [Deconstructing the 62443 Series of Standards for Industrial Automation Control Systems](https://www.vdoo.com/blog/industrial-automation-control-systems-62443-standard) (*with Anna Schnaiderman*)
+- [The 62443 Series of Standards for Industrial Automation Control Systems](https://www.vdoo.com/blog/industrial-automation-control-systems-62443-standard) (*with Anna Schnaiderman*)
 - [Critical Privilege Escalation Vulnerability in the Linux Kernel - CVE-2020-14386](https://www.vdoo.com/blog/linux-kernel-cve-2020-14386-vulnerability)
 - [Shaking Hands with Wolves - The wolfSSL CVE-2020-24613 Vulnerability](https://www.vdoo.com/blog/shaking-hands-wolves-wolfssl-cve-2020-24613-vulnerability)
 - [Onward and Upward: Developments in IoT Cybersecurity Regulation and Standardization](https://www.vdoo.com/blog/onward-and-upward-developments-iot-cybersecurity-regulation-and-standardization)
@@ -48,4 +48,4 @@ Thesis advisors: Dr. Benny Pinkas, Dr. Zvi Guterman
 
 # Other blogs
 
-* [The Growth of Keyloggers](http://www.net-security.org/article.php?id=1215) (*with Pavel Berengoltz, uncredited*)
+* [The Growth of Keyloggers](http://www.net-security.org/article.php?id=1215) (*with Pavel Berengoltz*)
