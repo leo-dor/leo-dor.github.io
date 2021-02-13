@@ -1,9 +1,9 @@
 # Academic publications
 ## Thesis paper
 
-**Cryptanalysis of the Windows Random Number Generator**
+**[Cryptanalysis of the Windows Random Number Generator](thesis.pdf)**
 
-* Thesis advisors: Dr. Benny Pinkas, Dr. Zvi Guterman
+Thesis advisors: Dr. Benny Pinkas, Dr. Zvi Guterman
 
 **Published articles:** 
 
@@ -20,9 +20,7 @@
 
 ## Self-published
 
-**Protecting Drive Encryption Systems Against Memory Attacks**
-
-* [ePrint](http://eprint.iacr.org/2011/221)
+**[Protecting Drive Encryption Systems Against Memory Attacks](http://eprint.iacr.org/2011/221)**
 
 
 # Vdoo blogs
@@ -43,11 +41,11 @@
 - [Linux Kernel Isolation Features](https://www.vdoo.com/blog/linux-kernel-isolation-features) (*with Donald Tevault*)
 - [Isolation and Integrity Techniques on Embedded Linux Devices](https://www.vdoo.com/blog/isolation-and-integrity-techniques-on-embedded-linux-devices) (*with Donald Tevault*)
 - [Monitoring Embedded Linux Device Integrity with AIDE](https://www.vdoo.com/blog/monitoring-embedded-linux-device-integrity-aide) (*with Donald Tevault*)
-- [Installing Dropbear with Enhanced Security Options](https://www.vdoo.com/blog/installing-dropbear-with-enhanced-security-options) (with Donald Tevault)
+- [Installing Dropbear with Enhanced Security Options](https://www.vdoo.com/blog/installing-dropbear-with-enhanced-security-options) (*with Donald Tevault*)
 - [IoT Security Foundations – Password Authentication on the Internet of Things](https://www.vdoo.com/blog/authentication-on-the-internet-of-things)
 - [IoT Security Foundations](https://www.vdoo.com/blog/iot-security-foundations)
 - [Security in the IoT Supply Chain](https://www.vdoo.com/blog/security-in-the-iot-supply-chain)
 
-## Other
+# Other blogs
 
 * [The Growth of Keyloggers](http://www.net-security.org/article.php?id=1215) (*with Pavel Berengoltz, uncredited*)
