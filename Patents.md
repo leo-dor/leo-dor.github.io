@@ -1,6 +1,6 @@
 layout: page
 title: "Patents"
-permalink: /Patents/
+permalink: /Patents
 
 ## NDS Ltd.
 
