@@ -1,5 +1,8 @@
-## NDS Ltd.
+layout: page
+title: "Patents"
+permalink: /Patents/
 
+## NDS Ltd.
 
 
 #### Authentication in a Network
