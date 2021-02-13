@@ -18,14 +18,12 @@
 * The Register: [Original article](http://www.theregister.co.uk/2007/11/13/windows_random_number_gen_flawed/) and [Follow-up](http://www.theregister.co.uk/2007/11/23/win_xp_random_bug/)
 
 
-
 ## Self-published
 
 **Protecting Drive Encryption Systems Against Memory Attacks**
 
 * [ePrint](http://eprint.iacr.org/2011/221)
 
----
 
 # Vdoo blogs
 
