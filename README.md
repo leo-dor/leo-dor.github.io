@@ -23,7 +23,7 @@
 * Designed and co-authored the content in the Vdoo Threat Landscape, a consistent and comprehensive cyber security database with over 1200 instructive requirement articles, 100 critical vulnerability articles.
 * Analyzed and created detailed mappings to over 40 industry standards from organizations such as NIST, OWASP, IEC, IoTSF, UL, and ENISA.
 * Security consulting for several major customers, writing security architecture design, threat analysis, requirements documents. Preparing medical vendors to FDA compliance.
-* Speaker at the 2018 [IoTSF Security Conference ](https://iotsfconference.com/talks-iotsf-conference-2018/), participated in the Japanese MIC security standardization and regulation review, participating as contributor or reviewer on OWASP ISVS, SIA, and several NIST, ENISA, and IoTSF standards.
+* Speaker at the 2018 [IoTSF Security Conference](https://iotsfconference.com/talks-iotsf-conference-2018/), participated in the Japanese MIC security standardization and regulation review, participating as contributor or reviewer on OWASP ISVS, SIA, and several NIST, ENISA, and IoTSF standards.
 * Wrote or co-authored many of the company's blogs and whitepapers. 
 * Established and operated the Vdoo CNA (CVE Numbering Authority).
 * Responsible for managing the company's patent portfolio.
