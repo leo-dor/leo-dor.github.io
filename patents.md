@@ -51,7 +51,7 @@
 
 #### System and Method for Selective Protection of Information Elements
 
-* Applications: [US 2012/0233671](https://patents.google.com/patent/US20120233671) [EP 2510442](https://patents.google.com/patent/EP2502142)
+* Applications: [US 2012/0233671](https://patents.google.com/patent/US20120233671); [EP 2510442](https://patents.google.com/patent/EP2502142)
 
 #### System and Method for Efficient Inspection of Content
 
@@ -63,7 +63,7 @@
 
 #### System and Method for Conflict-Free Cloud Storage Encryption
 
-* Applications: [US 2016/0011990](https://patents.google.com/patent/US20160011990) [EP 2962209](https://patents.google.com/patent/EP2962209)
+* Applications: [US 2016/0011990](https://patents.google.com/patent/US20160011990); [EP 2962209](https://patents.google.com/patent/EP2962209)
 
 
 
