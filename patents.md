@@ -1,6 +1,4 @@
-layout: page
-title: "patents"
-permalink: /patents
+# Patents
 
 ## NDS Ltd.
 
