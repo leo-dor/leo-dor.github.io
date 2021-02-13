@@ -5,19 +5,19 @@
 
 * Thesis advisors: Dr. Benny Pinkas, Dr. Zvi Guterman
 
-Published articles: 
+**Published articles:** 
 
 * [ACM CCS](http://portal.acm.org/citation.cfm?id=1315304)
 * [ACM TISSEC](http://portal.acm.org/citation.cfm?id=1609956.1609966)
 * [eprint.iacr.org](https://eprint.iacr.org/2007/419)
 
-Press:
+**Press:**
 
 * Slashdot: [Original article](http://it.slashdot.org/article.pl?sid=07/11/12/1528211) and [Follow-up](http://it.slashdot.org/article.pl?sid=07/11/22/040221)
 * Computerworld: [Original article](http://www.computerworld.com/article/2540185/security0/reverse-engineering-cracks-windows-encryption.html) and [Follow-up](http://www.computerworld.com/article/2539986/security0/microsoft-confirms-that-xp-contains-random-number-generator-bug.html)
 * The Register: [Original article](http://www.theregister.co.uk/2007/11/13/windows_random_number_gen_flawed/) and [Follow-up](http://www.theregister.co.uk/2007/11/23/win_xp_random_bug/)
 
----
+
 
 ## Self-published
 
