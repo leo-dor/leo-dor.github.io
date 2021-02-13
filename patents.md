@@ -1,5 +1,5 @@
 layout: page
-title: "Patents"
+title: "patents"
 permalink: /patents
 
 ## NDS Ltd.
