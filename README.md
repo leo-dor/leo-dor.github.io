@@ -1,7 +1,6 @@
 # Resume
 
-* [Twitter](https://twitter.com/leodorrendorf) 
-* [LinkedIn](https://www.linkedin.com/in/leo-dorrendorf-604679)
+* [Twitter](https://twitter.com/leodorrendorf) / [LinkedIn](https://www.linkedin.com/in/leo-dorrendorf-604679)
 
 ### Summary
 
