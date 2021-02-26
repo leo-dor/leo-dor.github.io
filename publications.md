@@ -32,7 +32,7 @@ Thesis advisors: Dr. Benny Pinkas, Dr. Zvi Guterman
 - [Shaking Hands with Wolves - The wolfSSL CVE-2020-24613 Vulnerability](https://www.vdoo.com/blog/shaking-hands-wolves-wolfssl-cve-2020-24613-vulnerability)
 - [Onward and Upward: Developments in IoT Cybersecurity Regulation and Standardization](https://www.vdoo.com/blog/onward-and-upward-developments-iot-cybersecurity-regulation-and-standardization)
 - [Medical Device (IoMT) Cybersecurity 101](https://www.vdoo.com/blog/internet-of-medical-things-cybersecurity)
-- [The Case of BusyBox Wget: A Long Overdue Fix](https://www.vdoo.com/blog/busybox-wget-case)
+- [The Case of BusyBox Wget: A Long Overdue Fix](https://www.vdoo.com/blog/busybox-wget-case) (*with Shachar Menashe*)
 - [NERC CIP Industrial Cybersecurity Standards: What You Need to Know Before the Deadline](https://www.vdoo.com/blog/nerc-cip-industrial-cybersecurity-standards)
 - [Head-to-Head: Penetration testing vs. vulnerability scanning](https://www.vdoo.com/blog/iot-penetration-testing-vulnerability-scanning)
 - [Researchers Announce BLAKE3 Hash Function](https://www.vdoo.com/blog/blake3-hash-function-announced)
