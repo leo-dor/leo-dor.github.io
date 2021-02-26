@@ -17,14 +17,14 @@
         <header class="inner">          
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
+          
+          <ul id="nav_menu">
+              <li class="nav_li"><h5><a href="/resume.html">Resume</a></h5></li>
+              <li class="nav_li"><h5><a href="/patents.html">Patents</a><h5></li>
+              <li class="nav_li"><h5><a href="/publications">Publications</a><h5></li>
+              <li class="nav_li"><h5><a href="https://www.linkedin.com/in/leo-dorrendorf-604679">LinkedIn</a><h5></li>
+              <li class="nav_li"><h5><a href="https://twitter.com/leodorrendorf">Twitter</a><h5></li>
+          </ul>
         </header>
     </div>
 
