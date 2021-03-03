@@ -25,6 +25,7 @@ Thesis advisors: Dr. Benny Pinkas, Dr. Zvi Guterman
 
 # Vdoo blogs
 
+- [Who else is listening? An overview of Alexa Voice Service security requirements](https://www.vdoo.com/blog/who-else-listening-overview-alexa-voice-service-security-requirements)
 - [Supply Chain Attacks and NISTIR 8276](https://www.vdoo.com/blog/supply-chain-attacks-and-nistir-8276)
 - [Vdoo adds OWASP ASVS to its list of supported standards](https://www.vdoo.com/blog/vdoo-adds-owasp-asvs-to-supported-standards)
 - [The 62443 Series of Standards for Industrial Automation Control Systems](https://www.vdoo.com/blog/industrial-automation-control-systems-62443-standard) (*with Anna Schnaiderman*)
