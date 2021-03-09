@@ -22,6 +22,11 @@ Thesis advisors: Dr. Benny Pinkas, Dr. Zvi Guterman
 
 **[Protecting Drive Encryption Systems Against Memory Attacks](http://eprint.iacr.org/2011/221)**
 
+# Web news articles
+
+* [Medical Device (IoMT) Cybersecurity 101](https://www.healthcare-computing.de/das-einmaleins-der-sicherheit-fuer-medizintechnische-geraete-a-999900/?cmp=beleg-mail) - translated article published in a German cybersecurity paper
+* [The Growth of Keyloggers](https://www.helpnetsecurity.com/2009/04/01/the-growth-of-keyloggers/) (*with Pavel Berengoltz*)
+* [Scaling the IoT product security lifecycle with automation](https://www.helpnetsecurity.com/2018/10/15/iot-product-security-lifecycle/)
 
 # Vdoo blogs
 
@@ -49,8 +54,3 @@ Thesis advisors: Dr. Benny Pinkas, Dr. Zvi Guterman
 - [IoT Security Foundations – Password Authentication on the Internet of Things](https://www.vdoo.com/blog/authentication-on-the-internet-of-things)
 - [IoT Security Foundations](https://www.vdoo.com/blog/iot-security-foundations)
 - [Security in the IoT Supply Chain](https://www.vdoo.com/blog/security-in-the-iot-supply-chain)
-
-# Newspaper articles
-
-* [Medical Device (IoMT) Cybersecurity 101 - Translated article published in a German cybersecurity paper](https://www.healthcare-computing.de/das-einmaleins-der-sicherheit-fuer-medizintechnische-geraete-a-999900/?cmp=beleg-mail)
-* [The Growth of Keyloggers](http://www.net-security.org/article.php?id=1215) (*with Pavel Berengoltz*)
