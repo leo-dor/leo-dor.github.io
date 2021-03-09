@@ -25,8 +25,9 @@ Thesis advisors: Dr. Benny Pinkas, Dr. Zvi Guterman
 # Web news articles
 
 * [Medical Device (IoMT) Cybersecurity 101](https://www.healthcare-computing.de/das-einmaleins-der-sicherheit-fuer-medizintechnische-geraete-a-999900/?cmp=beleg-mail) - translated article published in a German cybersecurity paper
-* [The Growth of Keyloggers](https://www.helpnetsecurity.com/2009/04/01/the-growth-of-keyloggers/) (*with Pavel Berengoltz*)
 * [Scaling the IoT product security lifecycle with automation](https://www.helpnetsecurity.com/2018/10/15/iot-product-security-lifecycle/)
+* [The Growth of Keyloggers](https://www.helpnetsecurity.com/2009/04/01/the-growth-of-keyloggers/) (*with Pavel Berengoltz*)
+
 
 # Vdoo blogs
 
